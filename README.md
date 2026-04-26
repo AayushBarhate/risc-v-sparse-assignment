@@ -5,6 +5,6 @@ Here is my solution.
 Build and run:
 
 ```
-gcc -lm -o run challenge.c
+gcc -o run challenge.c -lm
 ./run
 ```
